@@ -17,7 +17,7 @@ rcg MyComponent
 
 ### TODO
 
-✓ Creación de Componentes en directorios de manera recursiva
-✓ Archivos de configuración
-✓ Inyección de templates
-✓ Añadir test al componente
+- Creación de Componentes en directorios de manera recursiva. 
+- Archivos de configuración. 
+- Inyección de templates. 
+- Añadir test al componente.  
