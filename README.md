@@ -7,13 +7,13 @@ Pequeño proyecto CLI que genera componentes de react.
 1. Descarga el proyecto
 2. Instala las dependencias
 3. En la carpeta raíz 
-´´´
+```
 npm install -g
-´´´
+```
 4. Ya estás listo para generar componentes
-´´´
+```
 rcg MyComponent
-´´´
+```
 
 ### TODO
 
