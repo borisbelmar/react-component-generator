@@ -1,0 +1,23 @@
+{
+  "name": "react-component-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rcg": "index.js"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "console",
+    "script"
+  ],
+  "author": "Boris Belmar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^4.1.1"
+  }
+}
